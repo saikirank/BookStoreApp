@@ -117,8 +117,8 @@ This app was developed using **Agentic Tool** as an agentic coding assistant:
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="Screenshots/login.png" width="220">
   <img src="Screenshots/home.png" width="220">
+  <img src="Screenshots/browse.png" width="220">
   <img src="Screenshots/product-details.png" width="220">
 </p>
 
