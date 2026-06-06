@@ -116,45 +116,14 @@ This app was developed using **Agentic Tool** as an agentic coding assistant:
 
 ## 📱 App Screenshots
 
-### Authentication
+<p align="center">
+  <img src="Screenshots/login.png" width="220">
+  <img src="Screenshots/home.png" width="220">
+  <img src="Screenshots/product-details.png" width="220">
+</p>
 
-| Login |
-|------|
-| ![](Screenshots/login.png) |
-
-### Browse Books
-
-| Home | Browse |
-|------|------|
-| ![](Screenshots/home.png) | ![](Screenshots/browse.png) |
-
-### Product Details
-
-| Product Details |
-|------|
-| ![](Screenshots/product-details.png) |
-
-### Shopping Flow
-
-| Shopping Cart | Checkout |
-|------|------|
-| ![](Screenshots/shopping cart.png) | ![](Screenshots/proceed-to-checkout.png) |
-
-### Payment & Address
-
-| Payment | Address |
-|------|------|
-| ![](Screenshots/payment.png) | ![](Screenshots/address.png) |
-
-### Order Confirmation
-
-| Order Confirmation |
-|------|
-| ![](Screenshots/order-confirmation.png) |
-
-### Profile
-
-| My Profile |
-|------|
-| ![](Screenshots/my-profile.png) |
-
+<p align="center">
+  <img src="Screenshots/shopping cart.png" width="220">
+  <img src="Screenshots/payment.png" width="220">
+  <img src="Screenshots/my-profile.png" width="220">
+</p>
