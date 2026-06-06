@@ -123,7 +123,7 @@ This app was developed using **Agentic Tool** as an agentic coding assistant:
 </p>
 
 <p align="center">
-  <img src="Screenshots/shopping cart.png" width="220">
+  <img src="Screenshots/order-confirmation.png" width="220">
   <img src="Screenshots/payment.png" width="220">
   <img src="Screenshots/my-profile.png" width="220">
 </p>
