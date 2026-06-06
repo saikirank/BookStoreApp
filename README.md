@@ -87,7 +87,7 @@ BookstoreApp/
 
 ## 🧠 Developed with Agentic AI
 
-This app was developed using **Claude (Anthropic)** as an agentic coding assistant:
+This app was developed using **Agentic Tool** as an agentic coding assistant:
 
 - Requirements extracted from the capstone PPTX via agentic file parsing
 - Complete MVVM architecture scaffolded from a single prompt
